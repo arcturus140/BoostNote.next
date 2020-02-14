@@ -61,6 +61,9 @@ npm i
 # Compile script
 npm run build
 
+# run developer version
+npm run dev
+
 # Package app
 npm run pack
 ```
